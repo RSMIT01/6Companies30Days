@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#
 class Solution{
   public:
     vector<vector<string> > Anagrams(vector<string>& string_list) {
